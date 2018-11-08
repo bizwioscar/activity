@@ -1,0 +1,1 @@
+This is project developed by Oscar his purpos was to develop his carrier in using command line on git and github. he completed related courses on OpenClassrooms which was conducted by Emily Reese. thank you!
