@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head> 
-	<title>my first Alert </title>>
+<title>my first Alert </title>>
 </head>
 <body>
 
