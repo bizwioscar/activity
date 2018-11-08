@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head> 
+	<title>my first Alert </title>>
+</head>
 <body>
 
 <h2>JavaScript Prompt</h2>
